@@ -9,7 +9,12 @@ const App = () => {
       <nav>
         <ul>
           <li>
-            <Link to="profile">Profile page</Link>
+            <br></br>
+            <Link to="/profile/popeye">Popeye's profile</Link>
+            <br />
+            <Link to="/profile/spinach">Spinach's profile</Link>
+            <br />
+            <Link to="help">Help section</Link>
           </li>
         </ul>
       </nav>
